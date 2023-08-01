@@ -1,4 +1,4 @@
-### Hi 👋 I'm [Sahil chintakindi](https://github.com/sahill11/sahill11)
+### Hi 👋 I'm [Sahil Chintakindi](https://github.com/sahill11/sahill11)
 
 <!--
 **sahill11/sahill11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
